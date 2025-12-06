@@ -1,0 +1,16 @@
+﻿customerId,firstName,lastName,dateOfBirth,genderId,street,postalCode,phone,email,dateJoined,nationalityId,citizenshipId,clientStatusId
+1,John,Smith,1985-03-12,1,1924 Elm Pl,10001,+15550101,john.smith@email.com,2020-01-15,1,1,1
+2,Maria,Garcia,1990-07-22,2,509 Chestnut St,10002,+15550102,maria.g@email.com,2020-02-20,2,2,1
+3,Robert,Johnson,1978-11-05,1,4606 Willow Blvd,10003,+15550103,bobj@email.com,2019-11-10,1,1,4
+4,Sarah,Williams,1995-09-30,2,4112 Lake Pl,10004,+15550104,sarah.w@email.com,2021-05-12,1,1,1
+5,Michael,Brown,1982-04-18,1,3757 Spruce Blvd,10005,+15550105,mbrown@email.com,2018-08-25,3,3,2
+6,Emily,Jones,1992-12-01,2,2386 Birch Cir,10006,+15550106,emily.j@email.com,2022-01-30,1,1,1
+7,David,Miller,1975-06-15,1,1779 Cedar St,10007,+15550107,d.miller@email.com,2017-03-14,1,1,4
+8,Jessica,Davis,1988-08-08,2,9035 Hill Rd,10008,+15550108,jess.d@email.com,2020-09-09,4,4,1
+9,James,Wilson,1999-02-28,1,1524 Lake Way,10009,+15550109,jwilson@email.com,2023-06-01,1,1,6
+10,Jennifer,Taylor,1984-10-10,2,9774 Maple Ln,10010,+15550110,jen.taylor@email.com,2019-12-25,5,5,3
+11,William,Anderson,1969-01-20,1,7012 Pine Blvd,10011,+15550111,bill.a@email.com,2015-07-07,1,1,5
+12,Elizabeth,Thomas,1991-05-05,2,620 Hill Dr,10012,+15550112,beth.t@email.com,2021-02-14,1,1,1
+13,Christopher,Martinez,1987-03-15,1,588 Oak Ave,10013,+15550113,chris.m@email.com,2019-04-01,2,2,1
+14,Lisa,Hernandez,1993-11-22,2,1635 Spruce Ave,10014,+15550114,lisa.h@email.com,2022-10-10,1,1,1
+15,Daniel,Moore,1980-09-17,1,3682 Maple Dr,10015,+15550115,dan.moore@email.com,2018-01-05,1,1,2

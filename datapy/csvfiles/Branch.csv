@@ -1,0 +1,16 @@
+﻿branchId,name,address,phone,postalCode,cityId
+1,Downtown HQ,100 Main St,+15551001,10001,1
+2,North Side,250 North Ave,+15551002,10020,1
+3,West End,45 West Blvd,+15551003,10030,1
+4,East Village,78 East Rd,+15551004,10040,1
+5,Airport Branch,1 Terminal Way,11000,1,+15551005
+6,Mall Kiosk,500 Shop Ln,+15551006,10050,1
+7,Brooklyn Main,200 Atlantic Ave,+15551007,11201,2,
+8,Queens Plaza,30 Queens Blvd,11101,3,+15551008
+9,Bronx Center,40 Grand Concourse,10451,4,+15551009
+10,Staten Island,10 Richmond Rd,10301,5,+15551010
+11,Jersey City,50 Hudson St,07030,6,+15551011
+12,Newark Branch,10 Broad St,07102,7,+15551012
+13,Hoboken,5 Washington St,07030,8,+15551013
+14,Stamford,100 Tresser Blvd,06901,9,+15551014
+15,Greenwich,20 Putman Ave,06830,10,+15551015

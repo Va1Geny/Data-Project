@@ -1,0 +1,7 @@
+﻿transactionTypeId,name
+1,Deposit
+2,Withdrawal
+3,Transfer
+4,Payment
+5,Fee
+6,Interest

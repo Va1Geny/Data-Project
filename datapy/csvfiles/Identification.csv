@@ -1,0 +1,16 @@
+﻿identificationId,name,customerId,employeeId
+1,Passport,1,1
+2,Drivers License,1,2
+3,Passport,2,1
+4,SSN Card,3,5
+5,State ID,4,1
+6,Passport,5,1
+7,Drivers License,6,3
+8,Green Card,7,1
+9,Passport,8,2
+10,State ID,9,1
+11,SSN Card,10,5
+12,Passport,11,1
+13,Drivers License,12,2
+14,Passport,13,1
+15,State ID,14,3
